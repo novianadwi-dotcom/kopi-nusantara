@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 590">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e9ddcc"/><stop offset="1" stop-color="#c8ad91"/></linearGradient><linearGradient id="cup" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#faf5ec"/><stop offset="1" stop-color="#d7c3ab"/></linearGradient><filter id="s"><feGaussianBlur stdDeviation="13"/></filter></defs>
+<circle cx="310" cy="285" r="245" fill="url(#bg)"/><circle cx="310" cy="285" r="208" fill="none" stroke="#fff8ed" stroke-opacity=".55" stroke-width="1.5"/>
+<ellipse cx="310" cy="465" rx="180" ry="27" fill="#4b3022" opacity=".22" filter="url(#s)"/>
+<path d="M165 245h275l-26 175q-7 48-57 48H250q-50 0-57-48z" fill="url(#cup)" stroke="#b89d7e" stroke-width="4"/>
+<ellipse cx="302" cy="246" rx="138" ry="34" fill="#f9f2e7" stroke="#b89d7e" stroke-width="4"/><ellipse cx="302" cy="246" rx="117" ry="23" fill="#4b2b1d"/><ellipse cx="302" cy="244" rx="74" ry="13" fill="#8c5735" opacity=".9"/>
+<path d="M438 285q95-25 85 55-8 66-101 50" fill="none" stroke="#d7c3ab" stroke-width="25"/><path d="M439 296q64-17 59 39-4 42-66 34" fill="none" stroke="#a8896d" stroke-width="5"/>
+<path d="M270 170q-23-28 3-53M317 168q-20-31 7-61M360 175q-13-25 9-45" fill="none" stroke="#fffaf1" stroke-width="6" stroke-linecap="round" opacity=".8"/>
+<g fill="#513322"><ellipse cx="135" cy="390" rx="22" ry="12" transform="rotate(-28 135 390)"/><path d="M118 390q18-15 34 0" fill="none" stroke="#b68a61" stroke-width="2"/><ellipse cx="485" cy="440" rx="22" ry="12" transform="rotate(32 485 440)"/><path d="M468 440q18-15 34 0" fill="none" stroke="#b68a61" stroke-width="2"/></g>
+<g fill="none" stroke="#fff8ed" stroke-width="2" opacity=".8"><path d="M104 178l12-12m-6 18 12-12M482 150l13-13m-7 19 13-13"/></g>
+<text x="310" y="535" text-anchor="middle" fill="#654631" font-family="Georgia,serif" font-size="15" letter-spacing="5">KOPI NUSANTARA</text></svg>
